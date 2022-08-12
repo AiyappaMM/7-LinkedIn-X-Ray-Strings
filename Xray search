@@ -1,0 +1,8 @@
+Here are seven sample X-Ray searches which may give you additional ideas on X-Raying LinkedIn:
+Unemployed or Recent Job Changes: site:linkedin.com/in inanchor:walmart business analyst –intitle:walmart
+Recommended members: site:linkedin.com/in “recommendations received”
+People with no current job (at the crawl time) or those who hide the employment section on public profiles: site:linkedin.com/in -present
+Recent jobs with little competition: site:linkedin.com/jobs/view sourcer “be among the first 25 applicants” -“no longer”
+Articles written in 2020: site:linkedin.com/pulse inanchor:2020 -intitle:2020
+Companies by location and industry: site:linkedin.com/company inanchor:chicago inanchor:”Technology, Information and Internet”
+People with unique names  site:linkedin.com/in -“see others named”
